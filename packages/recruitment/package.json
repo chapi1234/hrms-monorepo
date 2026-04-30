@@ -1,0 +1,11 @@
+{
+  "name": "@hrms/recruitment",
+  "version": "1.0.0",
+  "main": "./index.ts",
+  "dependencies": {
+    "@hrms/api-client": "*",
+    "@hrms/types": "*",
+    "@hrms/ui": "*",
+    "react": "^19.2.0"
+  }
+}
